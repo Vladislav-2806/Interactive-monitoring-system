@@ -1,7 +1,7 @@
 # Interactive-monitoring-system
 The code and files will appear within a few days.
 
-# Network Quality Monitor
+# Коротко о программе
 
 Десктопное приложение для мониторинга и диагностики качества
 интернет-соединения на основе телеметрии с роутеров.
